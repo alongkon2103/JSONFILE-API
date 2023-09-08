@@ -26,8 +26,8 @@ app.get('/', (req, res) => {
     <div class="container mt-5">
         <ul class="list-group">
             <li class="list-group-item bg-dark text-white"><h3>API ANIME PRODUCT <span class="" style="font-size: 15px;">By : alongkon</span></h3></li>
-            <li class="list-group-item list-group-item-dark">For get all product :  <a class="link-opacity-75-hover" href="https://alongkonproductapi.vercel.app/product">https://alongkonproductapi.vercel.app/product</a> </li>
-            <li class="list-group-item list-group-item-dark">For get 1 product with id : <a class="link-opacity-75-hover" href="https://alongkonproductapi.vercel.app/product/1">https://alongkonproductapi.vercel.app/product/1</a></li>
+            <li class="list-group-item list-group-item-dark">For get all product :  <a class="link-opacity-75-hover" href="https://alongkonproductapi.vercel.app/products">https://alongkonproductapi.vercel.app/products</a> </li>
+            <li class="list-group-item list-group-item-dark">For get 1 product with id : <a class="link-opacity-75-hover" href="https://alongkonproductapi.vercel.app/products/1">https://alongkonproductapi.vercel.app/products/1</a></li>
             <li class="list-group-item list-group-item-dark">For search item in product : <a class="link-opacity-75-hover" href="https://alongkonproductapi.vercel.app/products/search?q=kagu">https://alongkonproductapi.vercel.app/products/search?q=kagu</a></li>
           </ul>
     </div>
