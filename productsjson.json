@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "title": "Neon Genesis Evangelion",
+    "image": "https://m.media-amazon.com/images/M/MV5BODZkZjUxNmEtMGEyOS00ZDY5LTkxZDMtZTJkZDBiZTkyOWRkXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg",
+    "studios": "Gainax, Tatsunoko Production"
+  },
+  {
+    "id": "2",
+    "title": "Otonari ni Ginga",
+    "image": "https://cdn.myanimelist.net/images/anime/1091/135041.jpg",
+    "studios": "Asahi Productio"
+  },
+  {
+    "id": "3",
+    "title": "Tonikaku Kawaii",
+    "image": "https://cdn.myanimelist.net/images/anime/1613/108722.jpg",
+    "studios": "Seven Arcs"
+  },
+  {
+    "id": "4",
+    "title": "Shingeki no Kyojin: The Final Season - Kanketsu-hen",
+    "image": "https://cdn.myanimelist.net/images/anime/1279/131078.jpg",
+    "studios": "MAPPA"
+  },
+  {
+    "id": "5",
+    "title": "Oshi no Ko",
+    "image": "https://cdn.myanimelist.net/images/anime/1812/134736.jpg",
+    "studios": "Doga Kobo"
+  },
+  {
+    "id": "6",
+    "title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+    "image": "https://cdn.myanimelist.net/images/anime/1530/117776.jpg",
+    "studios": "Studio Bind"
+  },
+  {
+    "id": "7",
+    "title": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
+    "image": "https://cdn.myanimelist.net/images/anime/1384/136408.jpg",
+    "studios": "BUG FILMS"
+  },
+  {
+    "id": "8",
+    "title": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+    "image": "https://cdn.myanimelist.net/images/anime/1670/130060.jpg",
+    "studios": "A-1 Pictures"
+  },
+  {
+    "id": "9",
+    "title": "Bocchi the Rock!",
+    "image": "https://cdn.myanimelist.net/images/anime/1448/127956.jpg",
+    "studios": "CloverWorks"
+  }
+]
