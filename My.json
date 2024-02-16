@@ -1,13 +1,13 @@
 {
-  "first_name": "Alongkon",
-  "last_name": "Chantheing",
-  "Nick_namme" : "Poon",
-  "age": 19,
-  "study": "Information Technology",
-  "gender": "Male",
-  "social_media": {
-    "facebook": "https://www.facebook.com/alongkon29/",
-    "instagram": "https://www.instagram.com/__alongkon/",
-    "website" : "឵឵឵https://alongkonweb.vercel.app/"
-  }
+   "first_name":"Alongkon",
+   "last_name":"Chantheing",
+   "Nick_namme":"Poon",
+   "age":19,
+   "study":"Information Technology",
+   "gender":"Male",
+   "social_media":{
+      "facebook":"https://www.facebook.com/alongkon29/",
+      "instagram":"https://www.instagram.com/__alongkon/",
+      "website":"឵឵឵https://alongkonweb.vercel.app/"
+   }
 }
