@@ -1,14 +1,13 @@
 {
    "first_name":"Alongkon",
    "last_name":"Chantheing",
-   "Nick_namme":"Poon",
-   "age":19,
-   "study":"Information Technology",
-   "Internship":"Programmer(Internship) in Senior Aerospace Thailand"
+   "age":20,
+   "study":"KMITL (Computer Engineering)",
+   "Exp":"Programmer(Internship) in Senior Aerospace Thailand"
    "gender":"Male",
    "social_media":{
       "facebook":"https://www.facebook.com/alongkon29/",
       "instagram":"https://www.instagram.com/__alongkon/",
-      "website":"឵឵឵https://alongkonweb.vercel.app/"
+      "website":"https://alongkonweb.vercel.app/"
    }
 }
